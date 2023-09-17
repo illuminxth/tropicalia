@@ -1,5 +1,5 @@
 import { ChangeEvent, useState } from 'react';
-import { Container, InputContainer, InputStyled, Navbar, ButtonContainer, ButtonStyle, H1, H2, Party } from './styles';
+import { Container, InputContainer, InputStyled, ButtonContainer, ButtonStyle, H1, H2, Party } from './styles';
 import { useNavigate } from 'react-router-dom';
 import routes from '../routes/routes';
 import { SaveLocalStorage } from '../localStorage/SaveLocalStorage';
